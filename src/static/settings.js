@@ -24,7 +24,7 @@ class Settings {
       merchantItemGeneratorBonus: 5
     };
 
-    this.validGenders = ['male', 'female', 'not a bear', 'glowcloud', 'astronomical entity'];
+    this.validGenders = ['male', 'female', 'not a bear', 'glowcloud', 'astronomical entity', 'spaghetti monster', 'none', 'asymmetric'];
 
     this.maxChoices = 10;
 
